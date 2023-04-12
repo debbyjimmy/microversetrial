@@ -1,15 +1,48 @@
 header{
-    border: solid black;
     text-align: center;
     background-color: #D1D3D0;
 }
 #img-div {
-    border: solid green;
     text-align: center;
     background-color: white;
 }
 #time-line{
-    border: solid red;
+    border: solid #D1D3D0;
+    background-color: #D1D3D0;
+    text-align: center;
+    text-justify: auto;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+  footer{
+    border: solid  #D1D3D0 ;
+    text-align: center;
+    background-color: #D1D3D0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    background-color: #D1D3D0;
+}
+
+#qoute{
+    border: solid #D1D3D0;
+    background-color: #D1D3D0;
+    text-align: center;
+    text-justify: auto;
+}
+
+#more-info{
+    border: solid #D1D3D0;
     background-color: #D1D3D0;
     text-align: center;
     text-justify: auto;
